@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ef91bea85b1724793859f6129fb69d9e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: haramase_nyanko marumi
+  fontNames:
+  - haramase_nyanko marumi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37de2ba1a4e004e8bb415d253c19da37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
